@@ -9,3 +9,4 @@ href="./ООО _Телеавтоматика_ Официальный партн�
  Also some img elements didn't have alt attributes. I wrote them<br>
  The charset attribute on the script element is obsolete s I leaved 1 at the begining and other were removed<br>
   Element meta is missing one or more of the following attributes: itemprop, property (it must be property)<br>
+And some other problems? which sowd validator
